@@ -95,6 +95,9 @@ c.close()
 
 ![image](https://github.com/user-attachments/assets/246bfba4-128a-454b-b674-4a8f2707043d)
 
+![image](https://github.com/user-attachments/assets/17827190-7f5f-4c32-81f0-32d661c97acb)
+
+
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
